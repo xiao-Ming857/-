@@ -9,14 +9,14 @@
  * 8. 搜索功能
  */
 
-var username = getCookie('username');
+/*var username = getCookie('username');
 if (username) {
     // var user = document.getElementById('username');
     // user.innerText = username;
     $('#username').text(username);
 } else {
     location.href = './login.html';
-}
+}*/
 
 // 当前表格数据所属页数
 var nowPage = 1;
